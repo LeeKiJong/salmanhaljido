@@ -40,9 +40,9 @@
 |:---:|:---:|:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/52438368/195626893-c78d6450-04fc-4d25-b1f7-de3777ce55de.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195626943-e172849b-a81d-4584-9e94-a4c8275bae57.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195626992-13753380-523f-4f3e-8962-2da9c67f7ef7.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627001-da558b56-28a4-424b-8dea-199b0e740c5e.png" height="70px" />|
 ### server (ec2)
-|docker|jenkins|nginx|mariaDB|MongoDB|apache spark|apache hadoop|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/52438368/195627001-da558b56-28a4-424b-8dea-199b0e740c5e.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627021-b948587f-f8ce-47ba-ba55-242a5d12fdd9.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627044-56c12e5f-443d-4d4a-93ee-da201fbb97b4.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627063-c5152bf1-8aa5-4c75-8a13-eff91601d75c.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195972407-5d1dd93a-3ac6-4ef0-a2bf-cce62ca3f1c8.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627079-47a38a5d-7c67-470c-bea3-c9cc1b16b5a4.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627092-d315ea49-87d6-4823-a933-922deaf6775e.png" width="70px" />|
+|docker|jenkins|nginx|mariaDB|MongoDB|apache spark|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/52438368/195627001-da558b56-28a4-424b-8dea-199b0e740c5e.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627021-b948587f-f8ce-47ba-ba55-242a5d12fdd9.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627044-56c12e5f-443d-4d4a-93ee-da201fbb97b4.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627063-c5152bf1-8aa5-4c75-8a13-eff91601d75c.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195972407-5d1dd93a-3ac6-4ef0-a2bf-cce62ca3f1c8.png" height="70px" />|<img src="https://user-images.githubusercontent.com/52438368/195627079-47a38a5d-7c67-470c-bea3-c9cc1b16b5a4.png" height="70px" />|
 ## frontend
 |HTML|CSS|JavaScript|
 |:---:|:---:|:---:|
