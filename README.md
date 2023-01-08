@@ -57,7 +57,7 @@
 
 # 4. 시스템 구성도
 
-![시스템_구성도](https://user-images.githubusercontent.com/52438368/211194015-638af153-d0ba-4efa-9b11-ab7da4fdef96.png)
+![시스템_구성도](https://user-images.githubusercontent.com/52438368/211197354-f92ef83a-0474-46de-b32d-9ff8bff21f11.png)
 
 # 5. 실행 방법
 ## backend
