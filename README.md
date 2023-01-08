@@ -8,6 +8,8 @@
 [6. 팀원 소개](#6-팀원-소개)  
 
 # 1. 서비스 소개
+<img src="https://user-images.githubusercontent.com/52438368/211190426-b197ef48-cde6-4104-8658-44b91a5106e3.png" height="300px" />  
+
 **살만할지도**는 신혼부부를 위한 주거 지역 추천 서비스 입니다.  
 신혼부부가 주거 지역을 고를 때 해당 지역을 직접 가보기에는 시간과 정보가 부족하기 때문에 인터넷에 의존적이라는 문제점에 착안하여 쉽고 편하게 이용할 수 있는 웹 서비스를 개발하였습니다.  
 좋은 주거 환경을 찾고 있거나 기호에 맞는 주거 지역을 구하는 신혼부부들이 사용할 수 있습니다.  
@@ -15,7 +17,6 @@
 📊 [노션 바로가기](https://cumbersome-eel-2ce.notion.site/bedc7f705856408e9b5bb121a7af4389)  
 
 🎞 [실행 영상 다운로드](https://github.com/LeeKiJong/salmanhaljido/raw/master/Project%202.avi)
-
 ### 📆 프로젝트 기간
 2022년 8월 29일 ~ 10월 14일 (약 7주)  
 프론트 3명, 백엔드 2명
@@ -23,7 +24,9 @@
 ### ✅ 카테고리 추천 기능
 사용자 유형을 선택하면 비슷한 환경의 사람들이 선택한 카테고리를 추천해주는 기능 입니다.  
 기혼, 자가용, 반려동물, 자녀 유무를 선택하면 검색 횟수 기준과 평점 기준 중 원하는 것을 골라 추천받을 수 있습니다.
-
+<img src="https://user-images.githubusercontent.com/52438368/195627044-56c12e5f-443d-4d4a-93ee-da201fbb97b4.png" height="70px" />
+![image](https://user-images.githubusercontent.com/52438368/211190426-b197ef48-cde6-4104-8658-44b91a5106e3.png)
+![image](https://user-images.githubusercontent.com/52438368/211190578-f4e047c7-e396-4b76-b329-f97e46e39467.png)
 ### ✅ 주거 지역 추천 기능
 지역, 선호하는 환경, 평균 전세/매매 가격을 설정하면 그에 맞춰 주거 지역을 추천해주는 기능 입니다.  
 선호하는 환경은 카테고리 중요도를 선택함으로써 설정할 수 있습니다. 교통, 재난, 안전, 의료, 반려동물, 교육, 문화, 생활의 8가지 카테고리가 있으며 각각의 세부 카테고리에 대한 중요도를 상, 중, 하로 설정할 수 있습니다.  
@@ -54,15 +57,12 @@
 
 # 4. 시스템 구성도
 
-![시스템_구성도](https://user-images.githubusercontent.com/52438368/195627293-65ba36f3-d3e3-4b9c-b06b-c8daf2e61c0a.png)
+![시스템_구성도](https://user-images.githubusercontent.com/52438368/211194015-638af153-d0ba-4efa-9b11-ab7da4fdef96.png)
 
 # 5. 실행 방법
 ## backend
 ### CI/CD  
 gitlab(back branch) push or merge -> jenkins webhook -> auto build  
-
-### MobaXterm
-![MobaXterm](https://user-images.githubusercontent.com/52438368/195627333-84e6191c-d527-44b8-931a-b29e4b7baa43.png)
 
 ### docker logs
 ![docker](https://user-images.githubusercontent.com/52438368/195627374-48f7e9e9-f1cd-49cf-813a-6bd8f6519a65.png)
