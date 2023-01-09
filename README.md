@@ -14,6 +14,8 @@
 신혼부부가 주거 지역을 고를 때 해당 지역을 직접 가보기에는 시간과 정보가 부족하기 때문에 인터넷에 의존적이라는 문제점에 착안하여 쉽고 편하게 이용할 수 있는 웹 서비스를 개발하였습니다.  
 좋은 주거 환경을 찾고 있거나 기호에 맞는 주거 지역을 구하는 신혼부부들이 사용할 수 있습니다.  
 
+**자세한 프로젝트 정보는...**  
+
 📊 [노션 바로가기](https://cumbersome-eel-2ce.notion.site/bedc7f705856408e9b5bb121a7af4389)  
 
 🎞 [실행 영상 다운로드](https://github.com/LeeKiJong/salmanhaljido/raw/master/Project%202.avi)
